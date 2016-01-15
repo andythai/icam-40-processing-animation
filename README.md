@@ -1,6 +1,6 @@
 # icam-40-processing-animation
 
-ICAM 40 Processing Animation Project
+*ICAM 40 Processing Animation Project*
 
 **Name:** Andy Thai
 
@@ -8,7 +8,7 @@ ICAM 40 Processing Animation Project
 
 **Material/Medium of the Project:** Processing Animation (Java)
 
-**Year:** Spring 2015
+**Date:**  May 5, 2015
 
 
 Stress Ball is an animation made in Processing, which depicts a pulsating circle that has extra bouncing balls spawn with every pulsation. 
