@@ -8,7 +8,7 @@
 
 **Material/Medium of the Project:** Processing Animation (Java)
 
-**Date:**  May 5, 2015
+**Date of Completion:**  May 5, 2015
 
 
 Stress Ball is an animation made in Processing, which depicts a pulsating circle that has extra bouncing balls spawn with every pulsation. 
